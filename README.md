@@ -4,5 +4,5 @@ This is a simple project made in my weekend, I was trying to put more in practic
 
 To use this app in your own environment, build the application with "npm run build" and start the server with "npm run dev".
 
-## WATCH OUT: 
+## WATCH OUT
 All your geographic data you be exposed on your screen on enter in this website, PAY ATTENTION on what you are doing! so if you are recording it stay warned!
